@@ -1,3 +1,8 @@
+.Pokecard {
+  max-width: 250px;
+  min-width: 250px;
+}
+
 img {
   width: 200px;
 }
@@ -7,4 +12,14 @@ img {
   font-weight: 800;
   letter-spacing: 0.1rem;
   margin-bottom: 0.4rem;
+}
+
+.Pokecard img {
+  transition: all ease 0.5s;
+}
+
+.Pokecard img:hover {
+  transform: scale(1.2);
+  /* opacity: .8; */
+  filter: sepia() drop-shadow(2px 5px 10px black);
 }
