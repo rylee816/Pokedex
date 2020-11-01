@@ -1,0 +1,10 @@
+img {
+  width: 200px;
+}
+
+.Pokecard-data {
+  font-size: 80%;
+  font-weight: 800;
+  letter-spacing: 0.1rem;
+  margin-bottom: 0.4rem;
+}

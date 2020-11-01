@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+body {
+  background: black;
+  color: #4d4d4d;
+  margin-bottom: 100px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
